@@ -1,4 +1,4 @@
-# Laboratorio 2. Metodología de la programación con C++
+# Laboratorio 2. Metodología de la programación con C++ (cpp)
 
 ## 👤 Información del alumno
 
